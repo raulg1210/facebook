@@ -1,0 +1,63 @@
+body{
+    background-color: rgba(241,242,246,255); 
+}
+#formulario{
+    width: 40%;
+    float: right;
+    
+}
+
+.cb{
+    clear: both;
+}
+#container{
+    width: 70%;
+    margin: 0 auto;
+    padding-top: 80px;
+    background-color: rgba(241,242,246,255);
+}
+#imagen{
+    width: 55%;
+    float: left;
+    padding-top: 80px;
+}
+#formulario input{
+    padding: 8px;
+}
+.size-30{
+    font-size: 26px;
+}
+#formulario input[value="Entrar"]{
+    float: left;
+    background-color: rgb(39, 101, 218);
+    color: white;
+    font-size: 20px;
+    border: none;
+}
+#formulario form{
+    background-color: white;
+    border-radius: 8px;
+    padding: 12px;
+    text-align: center;
+}
+#formulario form input{
+    width: 100%;
+    padding: 8px;
+    border-radius: 6px;
+    margin-bottom: 10px;
+    border: solid 1px gray;
+}
+#formulario input[value="Crear nueva cuenta"]{
+    background-color: #45B336;
+    color: white;
+    font-size: 18px;
+    border: none;
+    width: 60%;
+    margin-top: 18px;
+}
+.size-14{
+    font-size: 14px;
+    text-align: center;
+}
+
+
