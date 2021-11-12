@@ -59,5 +59,8 @@ body{
     font-size: 14px;
     text-align: center;
 }
+input[name="user"], input[name="clave"]{
+    box-sizing: border-box;
+}
 
 
